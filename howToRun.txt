@@ -1,0 +1,1 @@
+Open the terminal. Navigate to the directory containing the main.cpp file and use the following command to compile the file and create an executable named Calculator: g++ -o Calculator main.cpp. Then run the program using the following command: ./Calculator
