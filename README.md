@@ -13,23 +13,33 @@
 ```
 Clone the repository:
 
-git clone https://github.com/Iasminaaaaa/Calculator.git
+git clone https://github.com/Iasminaaaaa/Classic-Calculator-App.git
 
 Open the project folder in Visual Studio Code.
 
-Compile the application in the terminal using g++:
+Open the terminal in VS Code and compile the application using g++:
 
 g++ -o Calculator main.cpp
 
 Run the application:
 
-    ./Calculator
+./Calculator
 
-    💡 Make sure you have g++ installed.
+Or on Windows:
 
-Run the executable:
 Calculator.exe
                 
+```
+
+## Contributions
+
+```
+Contributions are always welcome! If you'd like to contribute to this project, please follow these steps:    
+1. Fork the repository.    
+2. Create a new branch for your feature or bugfix (git checkout -b feature-name).    
+3. Make your changes and commit them (git commit -m "Add some feature").    
+4. Push your branch (git push origin feature-name).   
+5. Open a Pull Request and describe your changes.
 ```
 
 ## Usage
